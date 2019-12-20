@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Littorina Lab</title>
+    <link>/ru/authors/granovitch-a/</link>
+      <atom:link href="/ru/authors/granovitch-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Littorina Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Wed, 11 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Littorina Lab</title>
+      <link>/ru/authors/granovitch-a/</link>
+    </image>
+    
+    <item>
+      <title>Механизмы адаптации к соленостному стрессу у морских гастропод Littorina saxatilis: протеомный анализ (на англ.)</title>
+      <link>/ru/publication/2016-mechanisms-of-adaption-to-salinity-stress-in-marine-gastropods/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <guid>/ru/publication/2016-mechanisms-of-adaption-to-salinity-stress-in-marine-gastropods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Измерение физиологического сходства близкородственных видов литторинид: протеом (на англ.)</title>
+      <link>/ru/publication/2016-measuring-physiological-similarity-of-closely-related-littorinid-species/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/ru/publication/2016-measuring-physiological-similarity-of-closely-related-littorinid-species/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

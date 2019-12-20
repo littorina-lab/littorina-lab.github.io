@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Littorina Lab</title>
+    <link>/en/</link>
+      <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Littorina Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Fri, 03 May 2019 12:18:35 +0300</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Littorina Lab</title>
+      <link>/en/</link>
+    </image>
+    
+    <item>
+      <title>Norway 2019</title>
+      <link>/en/post/norway-2019/</link>
+      <pubDate>Fri, 03 May 2019 12:18:35 +0300</pubDate>
+      <guid>/en/post/norway-2019/</guid>
+      <description>&lt;p&gt;Under construction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expeditions</title>
+      <link>/en/expeditions/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
+      <guid>/en/expeditions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>/en/lab/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
+      <guid>/en/lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local adaptations</title>
+      <link>/en/project/rfbr-2019-local-adaptations/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
+      <guid>/en/project/rfbr-2019-local-adaptations/</guid>
+      <description>&lt;h2 id=&#34;local-evolutionary-adaptations-and-host-parasite-interactions-multilevel-analysis-of-closely-related-gastropod-species&#34;&gt;Local evolutionary adaptations and host-parasite interactions: multilevel analysis of closely related gastropod species&lt;/h2&gt;
+&lt;p&gt;RFBR #19-04-00392&lt;/p&gt;
+&lt;p&gt;Biological adaptation is a key process concerning such important scientific areas as organism homeostasis, interactions with environment, speciation, etc. This determines the importance of studies of adaptations and its mechanisms. This project is devoted to analysis of how organisms living in heterogenic environment make their adaption to biotopes occupied. Intertidal snails of the genus Littorina were chosen as a model system. Metabolomics and proteomics as principal approaches will be used for characterizing physiological features of animals collected from wild populations. We will analyze effects of abiotic factors on organisms&amp;rsquo; physiology in dependence on species, intertidal level, trematode infection and gut microsymbionts composition in example of snails; similar analysis of population partitioning will be performed for trematode parasites. So, within one project proteomics, metabolomics, molecular marker analysis, metagenomic analysis of gut microbiome, parasitology and population ecology will be jointed.&lt;/p&gt;
+&lt;p&gt;Our goal is to reveal molecular mechanisms of local adaptations on the basis of metabolomic and proteomic profiles analysis in the context of population ecology (intraspecies level) and evolution (interspecies level in the group of closely related species). The effect of trematode parasites on host adaptability and physiology will also be estimated. The relevance of the projects proposed is determined by contribution of expected results to several fundamental biological problems, such as, molecular mechanisms of adaptation; intraspecies plasticity of these mechanisms and its reasons; speciation mechanisms; host-parasite interactions. Such a multifaceted approach puts the proposed project onto current edge of ecological and evolutionary biology and makes the expected results of high demand.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>/en/about-us/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
+      <guid>/en/about-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EcoSens</title>
+      <link>/en/project/rfbr-2018-ecosens/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0300</pubDate>
+      <guid>/en/project/rfbr-2018-ecosens/</guid>
+      <description>&lt;h2 id=&#34;environmental-monitoring-of-arctic-coastal-ecosystems-sensitivity-to-petroleum-pollution-arctic-ecosens&#34;&gt;Environmental monitoring of Arctic coastal ecosystems: Sensitivity to petroleum pollution (Arctic EcoSens)&lt;/h2&gt;
+&lt;p&gt;RFBR #18-54-20001&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of adaption to salinity stress in marine gastropods Littorina saxatilis: a proteomic analysis</title>
+      <link>/en/publication/2016-mechanisms-of-adaption-to-salinity-stress-in-marine-gastropods/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/2016-mechanisms-of-adaption-to-salinity-stress-in-marine-gastropods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring physiological similarity of closely related littorinid species: a proteomic insight</title>
+      <link>/en/publication/2016-measuring-physiological-similarity-of-closely-related-littorinid-species/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/2016-measuring-physiological-similarity-of-closely-related-littorinid-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular evolution</title>
+      <link>/en/project/rfbr-2015-molecular-evolution/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0300</pubDate>
+      <guid>/en/project/rfbr-2015-molecular-evolution/</guid>
+      <description>&lt;h2 id=&#34;molecular-evolution-of-closely-related-marine-intertidal-gastropods-from-proteomes-to-localization-of-genes-on-chromosomes&#34;&gt;Molecular evolution of closely related marine intertidal gastropods: from proteomes to localization of genes on chromosomes&lt;/h2&gt;
+&lt;p&gt;RFBR #15-04-08210&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EMAP</title>
+      <link>/en/project/rfbr-2014-emap/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0400</pubDate>
+      <guid>/en/project/rfbr-2014-emap/</guid>
+      <description>&lt;h2 id=&#34;environmental-management-of-petroleum-activities-in-the-barents-sea-norwegian-russian-collaboration-emap&#34;&gt;Environmental MAnagement of Petroleum activities in the Barents Sea: Norwegian-Russian collaboration (EMAP)&lt;/h2&gt;
+&lt;p&gt;RFBR # 14-04-93083&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Norway 2018</title>
+      <link>/en/post/norway-2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/post/norway-2018/</guid>
+      <description>&lt;p&gt;Under construction&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
