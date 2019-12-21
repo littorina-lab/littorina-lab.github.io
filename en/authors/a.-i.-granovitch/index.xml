@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. I. Granovitch | Littorina Lab</title>
+    <link>/en/authors/a.-i.-granovitch/</link>
+      <atom:link href="/en/authors/a.-i.-granovitch/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. I. Granovitch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. I. Granovitch</title>
+      <link>/en/authors/a.-i.-granovitch/</link>
+    </image>
+    
+    <item>
+      <title>From host–parasite systems to parasitic systems: Interactions of littoral mollusks of the genus Littorina with their trematode parasites</title>
+      <link>/en/publication/2016-from-host-parasite-systems-to-parasitic-systems/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/2016-from-host-parasite-systems-to-parasitic-systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/ru/authors/renaud-p-e/</link>
       <atom:link href="/ru/authors/renaud-p-e/index.xml" rel="self" type="application/rss+xml" />
     <description>Littorina Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Littorina Lab</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Измерение физиологического сходства близкородственных видов литторинид: протеом (на англ.)</title>
+      <title>Hydrocarbon molecular markers in the Holocene bottom sediments of the Barents Sea as indicators of natural and anthropogenic impacts</title>
+      <link>/ru/publication/2019-hydrocarbon-markers-in-the-holocene-sediments-of-the-barents-sea/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/publication/2019-hydrocarbon-markers-in-the-holocene-sediments-of-the-barents-sea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring physiological similarity of closely related littorinid species: a proteomic insight</title>
       <link>/ru/publication/2016-measuring-physiological-similarity-of-closely-related-littorinid-species/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/ru/publication/2016-measuring-physiological-similarity-of-closely-related-littorinid-species/</guid>

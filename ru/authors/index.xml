@@ -5,12 +5,70 @@
     <link>/ru/authors/</link>
       <atom:link href="/ru/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Mon, 01 Jul 2019 12:18:35 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/ru/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/ru/authors/granovitch-a/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/granovitch-a/</guid>
+      <description>&lt;p&gt;Андрей Игоревич Гранович профессор, заведующий кафедрой зоологии беспозвоночных в Санкт-Петербургском Государственном Университете. Его исследовательские интересы включают микроэволюцию, популяционную биологию, паразитологию, малакологию, зоологию. Он возглавляет группу, исследующую микроэволюцию у моллюсков рода Littorina.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/ru/authors/renaud-p-e/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/renaud-p-e/</guid>
+      <description>&lt;p&gt;В разработке&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Batova G</title>
+      <link>/ru/authors/batova-g/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/batova-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kursheva A</title>
+      <link>/ru/authors/kursheva-a/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/kursheva-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Litvinenko I</title>
+      <link>/ru/authors/litvinenko-i/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/litvinenko-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morgunova I</title>
+      <link>/ru/authors/morgunova-i/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/morgunova-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petrova V</title>
+      <link>/ru/authors/petrova-v/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/petrova-v/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>admin</title>
@@ -22,17 +80,17 @@
     
     <item>
       <title></title>
-      <link>/ru/authors/granovitch-a/</link>
-      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
-      <guid>/ru/authors/granovitch-a/</guid>
-      <description>&lt;p&gt;Андрей Игоревич Гранович профессор, заведующий кафедрой зоологии беспозвоночных в Санкт-Петербургском Государственном Университете. Его исследовательские интересы включают микроэволюцию, популяционную биологию, паразитологию, малакологию, зоологию. Он возглавляет группу, исследующую микроэволюцию у моллюсков рода Littorina.&lt;/p&gt;
+      <link>/ru/authors/lobov-a/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/lobov-a/</guid>
+      <description>&lt;p&gt;В разработке&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
       <link>/ru/authors/maltseva-a/</link>
-      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/ru/authors/maltseva-a/</guid>
       <description>&lt;p&gt;В разработке&lt;/p&gt;
 </description>
@@ -41,10 +99,26 @@
     <item>
       <title></title>
       <link>/ru/authors/mikhailova-n/</link>
-      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/ru/authors/mikhailova-n/</guid>
       <description>&lt;p&gt;В разработке&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Demin S</title>
+      <link>/ru/authors/demin-s/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/demin-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefanova V</title>
+      <link>/ru/authors/stefanova-v/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/stefanova-v/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -67,24 +141,6 @@
     
     <item>
       <title></title>
-      <link>/ru/authors/lobov-a/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/ru/authors/lobov-a/</guid>
-      <description>&lt;p&gt;В разработке&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/ru/authors/renaud-p-e/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/ru/authors/renaud-p-e/</guid>
-      <description>&lt;p&gt;В разработке&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/ru/authors/varfolomeeva-m/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/ru/authors/varfolomeeva-m/</guid>
@@ -99,6 +155,62 @@
       <guid>/ru/authors/volovik-k/</guid>
       <description>&lt;p&gt;В разработке&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Avanesyan A</title>
+      <link>/ru/authors/avanesyan-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/avanesyan-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximovich A</title>
+      <link>/ru/authors/maximovich-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/maximovich-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximovich N</title>
+      <link>/ru/authors/maximovich-n/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/maximovich-n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starunova Z</title>
+      <link>/ru/authors/starunova-z/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/starunova-z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backeljau T</title>
+      <link>/ru/authors/backeljau-t/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/backeljau-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gracheva Y</title>
+      <link>/ru/authors/gracheva-y/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/gracheva-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannesson K</title>
+      <link>/ru/authors/johannesson-k/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/ru/authors/johannesson-k/</guid>
+      <description></description>
     </item>
     
     <item>

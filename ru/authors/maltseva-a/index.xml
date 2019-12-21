@@ -5,7 +5,7 @@
     <link>/ru/authors/maltseva-a/</link>
       <atom:link href="/ru/authors/maltseva-a/index.xml" rel="self" type="application/rss+xml" />
     <description>Littorina Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Wed, 11 May 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Littorina Lab</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Механизмы адаптации к соленостному стрессу у морских гастропод Littorina saxatilis: протеомный анализ (на англ.)</title>
+      <title>The Molecular Mechanisms of Gametic Incompatibility in Invertebrates</title>
+      <link>/ru/publication/2019-molecular-mechanisms-of-gametic-incompatibility-in-invertebrates/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/ru/publication/2019-molecular-mechanisms-of-gametic-incompatibility-in-invertebrates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of adaption to salinity stress in marine gastropods Littorina saxatilis: a proteomic analysis</title>
       <link>/ru/publication/2016-mechanisms-of-adaption-to-salinity-stress-in-marine-gastropods/</link>
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       <guid>/ru/publication/2016-mechanisms-of-adaption-to-salinity-stress-in-marine-gastropods/</guid>
@@ -21,10 +29,18 @@
     </item>
     
     <item>
-      <title>Измерение физиологического сходства близкородственных видов литторинид: протеом (на англ.)</title>
+      <title>Measuring physiological similarity of closely related littorinid species: a proteomic insight</title>
       <link>/ru/publication/2016-measuring-physiological-similarity-of-closely-related-littorinid-species/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/ru/publication/2016-measuring-physiological-similarity-of-closely-related-littorinid-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOSP: a newly identified sperm protein from Littorina obtusata</title>
+      <link>/ru/publication/2015-losp-a-newly-identified-sperm-protein-from-littorina-obtusata/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/ru/publication/2015-losp-a-newly-identified-sperm-protein-from-littorina-obtusata/</guid>
       <description></description>
     </item>
     
