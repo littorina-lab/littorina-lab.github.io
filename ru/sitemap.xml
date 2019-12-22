@@ -915,6 +915,20 @@
   </url>
   
   <url>
+    <loc>/ru/authors/repkin-e/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/repkin-e/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/repkin-e/"
+                />
+  </url>
+  
+  <url>
     <loc>/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
