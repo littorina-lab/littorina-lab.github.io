@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demin S | Littorina Lab</title>
+    <link>/en/authors/demin-s/</link>
+      <atom:link href="/en/authors/demin-s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demin S</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Demin S</title>
+      <link>/en/authors/demin-s/</link>
+    </image>
+    
+    <item>
+      <title>Spermatogenesis and lobular cyst type of testes organization in marine gastropod Littorina saxatilis (Olivi 1792)</title>
+      <link>/en/publication/2019-spermatogenesis-and-lobular-cyst-type-in-littorina-saxatilis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/2019-spermatogenesis-and-lobular-cyst-type-in-littorina-saxatilis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finished | Littorina Lab</title>
+    <link>/en/tags/finished/</link>
+      <atom:link href="/en/tags/finished/index.xml" rel="self" type="application/rss+xml" />
+    <description>Finished</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Finished</title>
+      <link>/en/tags/finished/</link>
+    </image>
+    
+    <item>
+      <title>Molecular evolution</title>
+      <link>/en/project/rfbr-2015-molecular-evolution/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0300</pubDate>
+      <guid>/en/project/rfbr-2015-molecular-evolution/</guid>
+      <description>&lt;h2 id=&#34;molecular-evolution-of-closely-related-marine-intertidal-gastropods-from-proteomes-to-localization-of-genes-on-chromosomes&#34;&gt;Molecular evolution of closely related marine intertidal gastropods: from proteomes to localization of genes on chromosomes&lt;/h2&gt;
+&lt;p&gt;RFBR #15-04-08210&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EMAP</title>
+      <link>/en/project/rfbr-2014-emap/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0400</pubDate>
+      <guid>/en/project/rfbr-2014-emap/</guid>
+      <description>&lt;h2 id=&#34;environmental-management-of-petroleum-activities-in-the-barents-sea-norwegian-russian-collaboration-emap&#34;&gt;Environmental MAnagement of Petroleum activities in the Barents Sea: Norwegian-Russian collaboration (EMAP)&lt;/h2&gt;
+&lt;p&gt;RFBR # 14-04-93083&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

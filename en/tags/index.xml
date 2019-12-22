@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Littorina Lab</title>
+    <link>/en/tags/</link>
+      <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Fri, 03 May 2019 12:18:35 +0300</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/en/tags/</link>
+    </image>
+    
+    <item>
+      <title>Expedition</title>
+      <link>/en/tags/expedition/</link>
+      <pubDate>Fri, 03 May 2019 12:18:35 +0300</pubDate>
+      <guid>/en/tags/expedition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current</title>
+      <link>/en/tags/current/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
+      <guid>/en/tags/current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finished</title>
+      <link>/en/tags/finished/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0300</pubDate>
+      <guid>/en/tags/finished/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

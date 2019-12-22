@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Littorina Lab</title>
+    <link>/en/authors/muraeva-o/</link>
+      <atom:link href="/en/authors/muraeva-o/index.xml" rel="self" type="application/rss+xml" />
+    <description>Littorina Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Wed, 11 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Littorina Lab</title>
+      <link>/en/authors/muraeva-o/</link>
+    </image>
+    
+    <item>
+      <title>Mechanisms of adaption to salinity stress in marine gastropods Littorina saxatilis: a proteomic analysis</title>
+      <link>/en/publication/2016-mechanisms-of-adaption-to-salinity-stress-in-marine-gastropods/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/2016-mechanisms-of-adaption-to-salinity-stress-in-marine-gastropods/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
