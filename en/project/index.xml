@@ -5,7 +5,7 @@
     <link>/en/project/</link>
       <atom:link href="/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Local adaptations</title>
-      <link>/en/project/rfbr-2019-local-adaptations/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
-      <guid>/en/project/rfbr-2019-local-adaptations/</guid>
+      <title>Host-parasite co-speciation</title>
+      <link>/en/project/rfbr-2019-host-parasite-cospeciation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/project/rfbr-2019-host-parasite-cospeciation/</guid>
       <description>&lt;h2 id=&#34;local-evolutionary-adaptations-and-host-parasite-interactions-multilevel-analysis-of-closely-related-gastropod-species&#34;&gt;Local evolutionary adaptations and host-parasite interactions: multilevel analysis of closely related gastropod species&lt;/h2&gt;
 &lt;p&gt;RFBR #19-04-00392&lt;/p&gt;
 &lt;p&gt;Biological adaptation is a key process concerning such important scientific areas as organism homeostasis, interactions with environment, speciation, etc. This determines the importance of studies of adaptations and its mechanisms. This project is devoted to analysis of how organisms living in heterogenic environment make their adaption to biotopes occupied. Intertidal snails of the genus Littorina were chosen as a model system. Metabolomics and proteomics as principal approaches will be used for characterizing physiological features of animals collected from wild populations. We will analyze effects of abiotic factors on organisms&amp;rsquo; physiology in dependence on species, intertidal level, trematode infection and gut microsymbionts composition in example of snails; similar analysis of population partitioning will be performed for trematode parasites. So, within one project proteomics, metabolomics, molecular marker analysis, metagenomic analysis of gut microbiome, parasitology and population ecology will be jointed.&lt;/p&gt;

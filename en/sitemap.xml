@@ -318,6 +318,36 @@
   </url>
   
   <url>
+    <loc>/en/authors/admin/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/current/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/tags/current/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/current/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/authors/demin-s/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -329,6 +359,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/demin-s/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/rfbr-2019-host-parasite-cospeciation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/rfbr-2019-host-parasite-cospeciation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/rfbr-2019-host-parasite-cospeciation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/"
                 />
   </url>
   
@@ -363,36 +423,6 @@
   </url>
   
   <url>
-    <loc>/en/authors/admin/</loc>
-    <lastmod>2019-01-01T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/current/</loc>
-    <lastmod>2019-01-01T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/tags/current/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/current/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/expeditions/</loc>
     <lastmod>2019-01-01T00:00:00+03:00</lastmod>
     <xhtml:link
@@ -423,21 +453,6 @@
   </url>
   
   <url>
-    <loc>/en/project/rfbr-2019-local-adaptations/</loc>
-    <lastmod>2019-01-01T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/project/rfbr-2019-local-adaptations/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/rfbr-2019-local-adaptations/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/about-us/</loc>
     <lastmod>2019-01-01T00:00:00+03:00</lastmod>
     <xhtml:link
@@ -449,21 +464,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/about-us/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/project/</loc>
-    <lastmod>2019-01-01T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/"
                 />
   </url>
   

@@ -98,6 +98,14 @@
     </item>
     
     <item>
+      <title>admin</title>
+      <link>/en/authors/admin/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Demin S</title>
       <link>/en/authors/demin-s/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -110,14 +118,6 @@
       <link>/en/authors/stefanova-v/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/en/authors/stefanova-v/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>/en/authors/admin/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
-      <guid>/en/authors/admin/</guid>
       <description></description>
     </item>
     
