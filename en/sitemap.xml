@@ -914,6 +914,20 @@
   </url>
   
   <url>
+    <loc>/en/authors/vikhreva-d/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/vikhreva-d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/vikhreva-d/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
