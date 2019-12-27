@@ -873,6 +873,7 @@
   
   <url>
     <loc>/en/authors/littorina-group/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -896,6 +897,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/panova-m/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/pavlova-p/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/pavlova-p/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/pavlova-p/"
                 />
   </url>
   

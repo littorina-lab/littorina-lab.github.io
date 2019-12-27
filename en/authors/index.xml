@@ -228,7 +228,67 @@
       <link>/en/authors/littorina-group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/en/authors/littorina-group/</guid>
-      <description>&lt;p&gt;Our research is focused on cryptic species of marine snails belonging to genus Littorina.&lt;/p&gt;
+      <description>&lt;p&gt;authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;littorina-group&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;is-this-the-primary-user-of-the-site&#34;&gt;Is this the primary user of the site?&lt;/h1&gt;
+&lt;p&gt;superuser: true&lt;/p&gt;
+&lt;h1 id=&#34;organizational-groups-that-you-belong-to-for-people-widget&#34;&gt;Organizational groups that you belong to (for People widget)&lt;/h1&gt;
+&lt;h1 id=&#34;set-this-to--or-comment-out-if-you-are-not-using-people-widget&#34;&gt;Set this to &lt;code&gt;[]&lt;/code&gt; or comment out if you are not using People widget.&lt;/h1&gt;
+&lt;p&gt;user_groups: []&lt;/p&gt;
+&lt;h1 id=&#34;roleposition&#34;&gt;Role/position&lt;/h1&gt;
+&lt;p&gt;role:&lt;/p&gt;
+&lt;p&gt;organizations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;name: Department of Invertebrate Zoology
+url: &lt;a href=&#34;http://zoology.bio.spbu.ru&#34;&gt;http://zoology.bio.spbu.ru&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;name: St-Petersburg State University
+url:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;short-bio-displayed-in-user-profile-at-end-of-posts&#34;&gt;Short bio (displayed in user profile at end of posts)&lt;/h1&gt;
+&lt;p&gt;bio: &amp;quot;&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;enter-email-to-display-gravatar-if-gravatar-enabled-in-config&#34;&gt;Enter email to display Gravatar (if Gravatar enabled in Config)&lt;/h1&gt;
+&lt;p&gt;email: &amp;quot;&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;list-academic-interests-or-hobbies&#34;&gt;List (academic) interests or hobbies&lt;/h1&gt;
+&lt;p&gt;interests:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cryptic species&lt;/li&gt;
+&lt;li&gt;Sympatric speciation&lt;/li&gt;
+&lt;li&gt;Microevolution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;education&#34;&gt;education:&lt;/h1&gt;
+&lt;h1 id=&#34;courses&#34;&gt;courses:&lt;/h1&gt;
+&lt;h1 id=&#34;--course-phd-&#34;&gt;- course: PhD (биология)&lt;/h1&gt;
+&lt;h1 id=&#34;institution-&#34;&gt;institution: СПбГУ&lt;/h1&gt;
+&lt;h1 id=&#34;year-2012&#34;&gt;year: 2012&lt;/h1&gt;
+&lt;h1 id=&#34;--course--&#34;&gt;- course: Магистр (биология)&lt;/h1&gt;
+&lt;h1 id=&#34;institution--1&#34;&gt;institution: СПбГУ&lt;/h1&gt;
+&lt;h1 id=&#34;year-2009&#34;&gt;year: 2009&lt;/h1&gt;
+&lt;h1 id=&#34;--course---1&#34;&gt;- course: Бакалавр (биология)&lt;/h1&gt;
+&lt;h1 id=&#34;institution--2&#34;&gt;institution: СПбГУ&lt;/h1&gt;
+&lt;h1 id=&#34;year-2008&#34;&gt;year: 2008&lt;/h1&gt;
+&lt;h1 id=&#34;socialacademic-networking&#34;&gt;Social/Academic Networking&lt;/h1&gt;
+&lt;h1 id=&#34;for-available-icons-see-httpssourcethemescomacademicdocswidgetsicons&#34;&gt;For available icons, see: &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/#icons&#34;&gt;https://sourcethemes.com/academic/docs/widgets/#icons&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;for-an-email-link-use-fas-icon-pack-envelope-icon-and-a-link-in-the&#34;&gt;For an email link, use &amp;ldquo;fas&amp;rdquo; icon pack, &amp;ldquo;envelope&amp;rdquo; icon, and a link in the&lt;/h1&gt;
+&lt;h1 id=&#34;form-mailtoyour-emailexamplecom-or-contact-for-contact-widget&#34;&gt;form &amp;ldquo;mailto:your-email@example.com&amp;rdquo; or &amp;ldquo;#contact&amp;rdquo; for contact widget.&lt;/h1&gt;
+&lt;h1 id=&#34;social&#34;&gt;social:&lt;/h1&gt;
+&lt;h1 id=&#34;--icon-envelope&#34;&gt;- icon: envelope&lt;/h1&gt;
+&lt;h1 id=&#34;icon-pack-fas&#34;&gt;icon_pack: fas&lt;/h1&gt;
+&lt;h1 id=&#34;link-contact----for-a-direct-email-link-use-mailtotestexampleorg&#34;&gt;link: &amp;lsquo;#contact&amp;rsquo;   # For a direct email link, use &amp;ldquo;mailto:test@example.org&amp;rdquo;.&lt;/h1&gt;
+&lt;h1 id=&#34;--icon-google-scholar&#34;&gt;- icon: google-scholar&lt;/h1&gt;
+&lt;h1 id=&#34;icon-pack-ai&#34;&gt;icon_pack: ai&lt;/h1&gt;
+&lt;h1 id=&#34;link&#34;&gt;link:&lt;/h1&gt;
+&lt;h1 id=&#34;--icon-researchgate&#34;&gt;- icon: researchgate&lt;/h1&gt;
+&lt;h1 id=&#34;icon-pack-ai-1&#34;&gt;icon_pack: ai&lt;/h1&gt;
+&lt;h1 id=&#34;link-1&#34;&gt;link:&lt;/h1&gt;
+&lt;h1 id=&#34;link-to-a-pdf-of-your-resumecv-from-the-about-widget&#34;&gt;Link to a PDF of your resume/CV from the About widget.&lt;/h1&gt;
+&lt;h1 id=&#34;to-enable-copy-your-resumecv-to-staticfilescvpdf-and-uncomment-the-lines-below&#34;&gt;To enable, copy your resume/CV to &lt;code&gt;static/files/cv.pdf&lt;/code&gt; and uncomment the lines below.&lt;/h1&gt;
+&lt;h1 id=&#34;--icon-cv&#34;&gt;- icon: &amp;ldquo;cv&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;icon-pack-ai-2&#34;&gt;icon_pack: &amp;ldquo;ai&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;link-filescvpdf&#34;&gt;link: &amp;ldquo;files/cv.pdf&amp;rdquo;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Our research is focused on cryptic species of marine snails belonging to genus Littorina.&lt;/p&gt;
 </description>
     </item>
     
@@ -238,6 +298,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/en/authors/panova-m/</guid>
       <description>&lt;p&gt;Under construction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/en/authors/pavlova-p/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/authors/pavlova-p/</guid>
+      <description>&lt;p&gt;In 2018&amp;ndash;2019, I finished a one-year program “Bioinformatics for Biologists” at the Bioinformatics Institute. During the study project “Development of the library for express analysis of FASTA/FASTQ files” I developed functions for filtering reads of low-quality / duplicates / a particular motif using biopython library. The second project “Effect of smoking on epigenome of human leukocytes” was devoted to search of differentially methylated CpG-islands.&lt;/p&gt;
+&lt;p&gt;Since 2019 I&#39;m involved in a project “Ecological and molecular basis of microevolution: a model of parallel speciation in complexes of cryptic species of littoral mollusks”, where I analyze proteomes and metabolomes of littorines from two groups of cryptic species: “saxatilis” and “obtusata”.&lt;/p&gt;
 </description>
     </item>
     
