@@ -319,7 +319,7 @@
   
   <url>
     <loc>/en/authors/admin/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -334,7 +334,7 @@
   
   <url>
     <loc>/en/tags/current/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -344,6 +344,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/current/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/rsf-2019-parallel-speciation/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/rsf-2019-parallel-speciation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/rsf-2019-parallel-speciation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/"
                 />
   </url>
   
@@ -374,21 +404,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/project/rfbr-2019-host-parasite-cospeciation/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/project/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/"
                 />
   </url>
   

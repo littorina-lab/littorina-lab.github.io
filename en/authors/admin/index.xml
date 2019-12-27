@@ -5,12 +5,29 @@
     <link>/en/authors/admin/</link>
       <atom:link href="/en/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>admin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>admin</title>
       <link>/en/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Parallel speciation in littorines</title>
+      <link>/en/project/rsf-2019-parallel-speciation/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/project/rsf-2019-parallel-speciation/</guid>
+      <description>&lt;h2 id=&#34;ecological-and-molecular-backgroung-of-speciation-the-model-of-parallel-speciation-in-the-complex-of-cryptic-species-of-intertidal-molluscs&#34;&gt;Ecological and molecular backgroung of speciation: the model of parallel speciation in the complex of cryptic species of intertidal molluscs&lt;/h2&gt;
+&lt;p&gt;RSF #19-14-00321&lt;/p&gt;
+&lt;p&gt;The project is devoted to the analysis of processes of intraspecific divergence, the formation of distinct intraspecific groups in the scope of the feasibility of the parallel, unidirectional morphological and functional changes of the groups of individuals in different parts of the species range, in locations with similar gradients of environmental factors (parallel &amp;ldquo;race formation&amp;rdquo;). The proof of this phenomenon raises an even more important question about the possibility of a parallel, independent formation of similar groups of species rank, repeated at different parts of the species range. This model of speciation is an alternative to the model, which recognizes unique, single and highly stochastic speciation followed by dispersal (young species range formation) and the formation of zones of secondary contact with the populations of the ancestral species.&lt;/p&gt;
+&lt;p&gt;In the framework of the formulated fundamental problem, we offer, on the one hand, to demonstrate the repetitive acts of differentiation of populations of species in ecological gradients at the level of the phenotype and genotype in different geographical regions, and on the other hand, to verify the possibility of independent divergence of the young cryptic species in the same geographic locations on basis of the same genetic data.&lt;/p&gt;
+&lt;p&gt;The selected model system - two groups of cryptic species of the genus Littorina subgenus Neritrema (Mollusca: Caenogastropoda: Littorinidae) - &amp;ldquo;saxatilis&amp;rdquo; (L.arcana, L.compressa, L.saxatilis) and &amp;ldquo;obtusata&amp;rdquo; (L.fabalis, L.obtusata), which form sympatric populations, and whose environmental preferences overlap to varying degree.&lt;/p&gt;
+&lt;p&gt;The project&#39;s objective is to carry out comprehensive comparisons within the two categories of objects: (1) intraspecific ecological groups within each of the three species from &amp;ldquo;saxatilis&amp;rdquo; group (a natural model of the situation &amp;ldquo;before the speciation&amp;rdquo;); (2) young species (respectively, interspecies analysis of all five of these species, the natural model of the situation &amp;ldquo;after the speciation&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;We plan to perform a comprehensive comparative analysis of eight populations of each species from 4 geographically distant regions (2 populations from each region - the British Isles, the Atlantic Coast (1); Breton peninsula, the Channel (2); The northern part of the Scandinavian Peninsula, the Norwegian Sea (3); Kola peninsula, the Barents sea (4)). For each of the analyzed categories we will obtain a complex description phenotype of individuals at the morphological (morphometric analysis of shell) and molecular levels (profiles of proteins expressed and metabolites produced), description of environmental preferences (distribution in the intertidal zone, the food spectrum), and genotyping based on restriction-site associated DNA markers (RADseq-tags).&lt;/p&gt;
+&lt;p&gt;In total, such a multilevel analysis will show the formation of parallel rows of variability in different populations of different species at the level of phenotype; genetic analysis will reveal adaptively significant loci and assess whether their composition is similar across species. In addition, it will provide an opportunity to understand how likely is the independent divergence of young species within the cryptic groups at each location.&lt;/p&gt;
+&lt;p&gt;The project will be carried out using the equipment of the St. Petersburg State University resource centers &amp;ldquo;Centre for Molecular and Cell Technologies&amp;rdquo; and &amp;ldquo;Environmental Safety Observatory&amp;rdquo;. Completion of the project will allow to determine the molecular mechanisms of formation of a complex of closely related species and ecological intraspecific morphs. The new data will be important for understanding of the overall process of speciation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Host-parasite co-speciation</title>

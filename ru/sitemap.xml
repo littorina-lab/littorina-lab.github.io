@@ -334,7 +334,7 @@
   
   <url>
     <loc>/ru/tags/current/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -344,6 +344,36 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/tags/current/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/project/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/project/rsf-2019-parallel-speciation/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/rsf-2019-parallel-speciation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/rsf-2019-parallel-speciation/"
                 />
   </url>
   
@@ -359,21 +389,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/authors/demin-s/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ru/project/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/project/"
                 />
   </url>
   
