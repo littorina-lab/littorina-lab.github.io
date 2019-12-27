@@ -498,6 +498,66 @@
   </url>
   
   <url>
+    <loc>/ru/authors/babkina-i/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/babkina-i/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/babkina-i/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/authors/ivanov-v/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/ivanov-v/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/ivanov-v/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/publication/2018-losp-a-putative-marker-of-parasperm-lineage-in-littorina-obtusata/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2018-losp-a-putative-marker-of-parasperm-lineage-in-littorina-obtusata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/2018-losp-a-putative-marker-of-parasperm-lineage-in-littorina-obtusata/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/authors/starunov-v/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/starunov-v/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/starunov-v/"
+                />
+  </url>
+  
+  <url>
     <loc>/ru/project/rfbr-2018-ecosens/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -514,7 +574,7 @@
   
   <url>
     <loc>/ru/authors/muraeva-o/</loc>
-    <lastmod>2016-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -524,6 +584,36 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/authors/muraeva-o/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/authors/varfolomeeva-m/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/varfolomeeva-m/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/varfolomeeva-m/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/publication/2017-mild-osmotic-stress-in-littorina-saxatilis-and-obtusata/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2017-mild-osmotic-stress-in-littorina-saxatilis-and-obtusata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/2017-mild-osmotic-stress-in-littorina-saxatilis-and-obtusata/"
                 />
   </url>
   
@@ -554,21 +644,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/authors/grishankov-a/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ru/authors/varfolomeeva-m/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/varfolomeeva-m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/authors/varfolomeeva-m/"
                 />
   </url>
   
@@ -869,20 +944,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/publication/1998-comparison-of-different-protocols-for-rapd-analysis-of-littorina/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ru/authors/babkina-i/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/babkina-i/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/authors/babkina-i/"
                 />
   </url>
   

@@ -5,12 +5,20 @@
     <link>/en/authors/babkina-i/</link>
       <atom:link href="/en/authors/babkina-i/index.xml" rel="self" type="application/rss+xml" />
     <description>Littorina Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Littorina Lab</title>
       <link>/en/authors/babkina-i/</link>
     </image>
+    
+    <item>
+      <title>LOSP: A putative marker of parasperm lineage in male reproductive system of the prosobranch mollusk Littorina obtusata</title>
+      <link>/en/publication/2018-losp-a-putative-marker-of-parasperm-lineage-in-littorina-obtusata/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/2018-losp-a-putative-marker-of-parasperm-lineage-in-littorina-obtusata/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
