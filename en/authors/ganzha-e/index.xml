@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ganzha E | Littorina Lab</title>
+    <link>/en/authors/ganzha-e/</link>
+      <atom:link href="/en/authors/ganzha-e/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ganzha E</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-uk</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ganzha E</title>
+      <link>/en/authors/ganzha-e/</link>
+    </image>
+    
+    <item>
+      <title>Histological analysis of the penial glands structure of North Atlantic periwinkles genus Littorina</title>
+      <link>/en/publication/2006-histology-of-penial-glands-in-mollusks-of-genus-littorina-of-the-north-atlantic/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/en/publication/2006-histology-of-penial-glands-in-mollusks-of-genus-littorina-of-the-north-atlantic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

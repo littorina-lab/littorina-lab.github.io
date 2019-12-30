@@ -843,6 +843,51 @@
   </url>
   
   <url>
+    <loc>/en/publication_types/1/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication_types/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2011-use-of-geometric-morphometrics-to-study-shape-of-biological-objects/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/2011-use-of-geometric-morphometrics-to-study-shape-of-biological-objects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2011-use-of-geometric-morphometrics-to-study-shape-of-biological-objects/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2010-inter-and-intrapopulation-variation-of-shell-shape-in-saxatilis-complex-of-species/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/2010-inter-and-intrapopulation-variation-of-shell-shape-in-saxatilis-complex-of-species/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2010-inter-and-intrapopulation-variation-of-shell-shape-in-saxatilis-complex-of-species/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/publication/2009-potential-species-specific-molecular-marker-suggests-hybridization-between-littorina-arcana-and-saxatilis/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -888,6 +933,96 @@
   </url>
   
   <url>
+    <loc>/en/publication/2008-interspecific-mating-frequencies-in-saxatilis-complex-of-species/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/2008-interspecific-mating-frequencies-in-saxatilis-complex-of-species/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2008-interspecific-mating-frequencies-in-saxatilis-complex-of-species/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/loskutova-z/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/loskutova-z/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/loskutova-z/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2008-morphometry-of-copulatory-organ-in-saxatilis-complex-of-species/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/2008-morphometry-of-copulatory-organ-in-saxatilis-complex-of-species/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2008-morphometry-of-copulatory-organ-in-saxatilis-complex-of-species/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/ganzha-e/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/ganzha-e/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/ganzha-e/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2006-histology-of-penial-glands-in-mollusks-of-genus-littorina-of-the-north-atlantic/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/2006-histology-of-penial-glands-in-mollusks-of-genus-littorina-of-the-north-atlantic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2006-histology-of-penial-glands-in-mollusks-of-genus-littorina-of-the-north-atlantic/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/petrova-y/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/petrova-y/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/petrova-y/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/publication/2004-habitat-related-genetic-substructuring-in-snail-littorina-fabalis/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -914,6 +1049,51 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/johannesson-k/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/mikhailova-na/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/mikhailova-na/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/mikhailova-na/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2004-species-composition-of-littorines-of-the-eastern-murman/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/2004-species-composition-of-littorines-of-the-eastern-murman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2004-species-composition-of-littorines-of-the-eastern-murman/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/znamenskaya-o/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/znamenskaya-o/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/znamenskaya-o/"
                 />
   </url>
   

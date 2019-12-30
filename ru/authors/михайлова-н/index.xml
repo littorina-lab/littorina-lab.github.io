@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Михайлова Н | Littorina Lab</title>
+    <link>/ru/authors/%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BD/</link>
+      <atom:link href="/ru/authors/%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BD/index.xml" rel="self" type="application/rss+xml" />
+    <description>Михайлова Н</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Littorina Lab 2018-2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Михайлова Н</title>
+      <link>/ru/authors/%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BD/</link>
+    </image>
+    
+    <item>
+      <title>Использование методов геометрической морфометрии для анализа форм биологических объектов</title>
+      <link>/ru/publication/2011-use-of-geometric-morphometrics-to-study-shape-of-biological-objects/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/ru/publication/2011-use-of-geometric-morphometrics-to-study-shape-of-biological-objects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
